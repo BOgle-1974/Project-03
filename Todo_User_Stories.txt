@@ -1,0 +1,17 @@
+User Stories for Brian L. Ogle 
+
+			Brian's React ToDo App
+
+User Stary 1:I want an easy to use ToDo App that allows me to enter 
+              a todo statement, delete it if I need to, or mark it 
+              as completed.
+
+User Story 2: I want an application that will allow me to enter To-Do
+              items, and then update and/or delete those items as needed.
+
+User Story 3: I would like a To-Do Application that allows me to enter the
+              To-Do statements and then change the color around the to red.
+              Once I have completed the To-Do item, I want to mark it 
+              as completed. If I choose to at anytime, I want to be able
+              to delete the items no matter whether they are completed,
+              or not.
